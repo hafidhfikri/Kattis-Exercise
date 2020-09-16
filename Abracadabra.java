@@ -1,3 +1,9 @@
+/*
+Stuck In A Time Loop Problem
+https://open.kattis.com/problems/timeloop
+Created by Hafidh Fikri
+*/
+
 import java.util.Scanner;
 
 public class Abracadabra {

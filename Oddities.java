@@ -1,3 +1,9 @@
+/*
+Oddities Problem
+https://open.kattis.com/problems/oddities
+Created by Hafidh Fikri
+*/
+
 import java.util.Scanner;
 
 public class Oddities {

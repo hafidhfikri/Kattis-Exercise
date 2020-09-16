@@ -1,3 +1,9 @@
+/*
+Autori Problem
+https://open.kattis.com/problems/autori
+Created by Hafidh Fikri
+*/
+
 import java.util.Scanner;
 
 public class Autori {

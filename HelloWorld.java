@@ -1,3 +1,9 @@
+/*
+Hello World Problem
+https://open.kattis.com/problems/hello
+Created by Hafidh Fikri
+*/
+
 import java.util.Scanner;
 
 public class HelloWorld {
