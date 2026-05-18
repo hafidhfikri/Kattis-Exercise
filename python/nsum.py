@@ -1,0 +1,5 @@
+n = int(input())
+c = input()
+num = c.split()
+x = sum(int(i) for i in num)
+print(x)
